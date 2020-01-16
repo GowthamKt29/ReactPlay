@@ -21,7 +21,7 @@ const styles = StyleSheet.create({
         justifyContent: 'center',
     },
     header: {
-        backgroundColor: 'pink',
+        backgroundColor: 'yellow',
         padding:20,
     },
 
