@@ -7,7 +7,7 @@ export default class HelloWorld extends Component {
             <View style={styles.container}>
                 <View style={styles.header}>
 
-                    <Text style={styles.helloStyle}>Hello, worlds!</Text>
+                    <Text style={styles.helloStyle}>Hello, world!</Text>
                 </View>
             </View>
         );
